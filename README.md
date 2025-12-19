@@ -9,6 +9,7 @@ I specialize in creating clean, responsive, and SEO-optimized interfaces using H
 
 What you can expect working with me:
 ✔️ Clear communication & fast response
+
 ✔️ High-quality code and modern UI design
 ✔️ SEO-friendly structure for better visibility
 ✔️ A website built to convert, not just look good
