@@ -8,14 +8,21 @@ I’m a Front-End Developer who helps businesses turn their ideas into high-perf
 I specialize in creating clean, responsive, and SEO-optimized interfaces using HTML, CSS, JavaScript, Bootstrap, and WordPress. Whether you need a new website, a redesign, or technical improvements, I ensure your site loads quickly, looks professional, and delivers a seamless user experience across all devices.
 
 What you can expect working with me:
+
 ✔️ Clear communication & fast response
 
 ✔️ High-quality code and modern UI design
+
 ✔️ SEO-friendly structure for better visibility
+
 ✔️ A website built to convert, not just look good
+
 ✔️ On-time delivery, every time
+
 ✔️ I will revise until your satisfaction
-✔️ Customer Satisfaction is my First Priority 
+
+✔️ Customer Satisfaction is my First Priority
+
 
 I enjoy solving real business problems with smart, efficient front-end solutions — and I’m always focused on the results that matter most to you: growth, performance, and user engagement.
 
